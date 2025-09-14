@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh Carter (@jcarterOCV)
-- 👀 I’m the engineering director for OCV, LLC focused on native mobile app development for public safety departments.
+- 👀 I’m the Chief Process Officer for OCV, LLC focused on native mobile app development for public safety departments.
 - 📫 How to reach me: Twitter @bowlerjosh
 
 <!---
